@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  @apply   bg-[#09090A]   text-zinc-100;
+
+}
+
+/* .button{
+@apply bg-brand-500 px-2 h-10 rounded-full text-white hover:bg-violet-700 transition-colors;
+} */
